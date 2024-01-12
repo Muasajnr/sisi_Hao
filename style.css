@@ -4,6 +4,7 @@ src: url('fonts/din.eot');
 src: url('fonts/din.eot?#iefix') format('embedded-opentype'), url('fonts/din.woff') format('woff'), url('fonts/din.ttf') format('truetype'), url('fonts/din.svg#din') format('svg');
 font-weight: normal;
 font-style: normal;
+font-size: normal;
 }
 
 body {	color:#555;	font:normal 13px/22px Arial;	background:url(../images/bgmain.png) #eee;}
